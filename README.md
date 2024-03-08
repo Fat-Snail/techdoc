@@ -59,6 +59,22 @@ CSS 教程    【[w3schools.cn][def]】
 Sass 教程   【[w3schools.cn](https://www.w3schools.cn/sass/)】
 
 
+# C++
+
+C++ 教程    【[runoob.com](https://www.runoob.com/cplusplus/cpp-tutorial.html)】
+
+Modern C++ Tutorial   【[changkun.de](https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf)】
+
+现代 C++ 教程   【[github](https://github.com/changkun/modern-cpp-tutorial/blob/master/book/zh-cn/toc.md)】
+
+
+# Qt
+
+Qt 快速入门系列教程 【[jb51.net/](http://shouce.jb51.net/qt-beginning/)】
+
+
+
+
 ## 新生命开发团队
 ![XCode](https://newlifex.com/logo.png)  
 
