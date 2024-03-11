@@ -15,6 +15,8 @@ ASP.NET MVC 教程    【[runoob.com](https://www.runoob.com/aspnet/mvc-intro.ht
 WinForm实践开发教程 【[简书-张中华](https://www.jianshu.com/nb/23572270)】
 
 
+Avalonia UI 中文文档  【[gitbook](https://avaloniachina.gitbook.io/avalonia)】
+
 
 # MarkDown
 
