@@ -75,6 +75,14 @@ Modern C++ Tutorial   【[changkun.de](https://changkun.de/modern-cpp/pdf/modern
 Qt 快速入门系列教程 【[jb51.net/](http://shouce.jb51.net/qt-beginning/)】
 
 
+# AI
+
+开源大模型本地环境搭建 【[零度解说](https://www.freedidi.com/12189.html)】
+
+* 推荐使用GPT4All、Linux部署则推荐使用Ollama，想模型更多则使用LMstudio
+* 如果想跟程序对接，C#首推 [AIClient](https://github.com/Fat-Snail/OctopusUtils/blob/main/AIClient.md)
+
+
 
 
 ## 新生命开发团队
